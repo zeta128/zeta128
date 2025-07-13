@@ -10,8 +10,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
 <div align="center">
   <img  src="https://edwingiraldonietodev.netlify.app/Images/logo.webp"
        alt="Technology stack" />
@@ -25,7 +23,7 @@
 
 - 🌱 I’m currently learning React, Azure, integrations with IA
 
-- ☁️ I've been interest in game design and develop. So,I'm learning **Unity**
+- ☁️ I've been interest in game develop and design.So,I'm learning **Unity**
 
 - 📝 This is my personal personal portfolio (https://edwingiraldonietodev.netlify.app/)
 
