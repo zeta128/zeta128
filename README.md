@@ -94,7 +94,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/edwin-giraldo-nieto-1354a2188" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/edwin-giraldo-nieto-1354a2188" Target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://edwingiraldonietodev.netlify.app/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1674/1674664.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://wa.me/573235476528" target="_blank"><img align="center" src="https://i.pinimg.com/564x/bf/8a/76/bf8a76719f900b8757154eb3cfbc844a.jpg" alt="discord" height="50" width="50" /></a>
 <a href="mailto:eduin.128@gmail.com" target="_blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1-500x281.png" alt="discord" height="50" width="50" /></a>
