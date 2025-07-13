@@ -6,14 +6,14 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Edwin</h1><br>
-    Full Stack developer, my greatest experience is with the use of .net, angular, sql server, azure devops and docker </summary>
+    Full Stack developer, with experience in .net, angular, javascript, html, css sql server, azure devops and docker mainly  </summary>
   </ul>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://img-c.udemycdn.com/course/750x422/3204618_dc30.jpg"
+  <img  src="https://edwingiraldonietodev.netlify.app/Images/logo.webp"
        alt="Technology stack" />
 </div>
 
